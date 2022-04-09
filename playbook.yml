@@ -1,5 +1,5 @@
 ---
-- hosts: web
+- hosts: 18.215.148.108
   become: yes
   tasks:
     - name: install httpd
